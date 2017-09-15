@@ -28,7 +28,7 @@ Each file will generally have: 1) Required constructors, 2) Instatiating of raw 
  <br>
 ### Stacks
   - In process
-<br>
+
 ## WORK HISTORY
 9/11/17 - Singly Linked Lists
 <br>
