@@ -9,6 +9,9 @@ Each .js is used along-side with "nodemon" to observe changes while I work. Most
 ## WORKFLOW
 Each file will generally have: 1) Required constructors, 2) Instatiating of raw values into new instances of constructors, and 3) Comments each block of code.
 
+## WORK HISTORY
+9/11/17 - Singly Linked Lists
+9/12/17 - Stacks
 // PLEASE FEEL FREE TO PROVIDE FEEDBACK. I AM OPEN TO CONSTRUCT CRITICSM. :)
 </br>
 // If you have any questions, feel free to message me.
