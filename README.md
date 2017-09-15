@@ -9,9 +9,31 @@ Each .js is used along-side with "nodemon" to observe changes while I work. Most
 ## WORKFLOW
 Each file will generally have: 1) Required constructors, 2) Instatiating of raw values into new instances of constructors, and 3) Comments each block of code.
 
+## Contents
+### SSL
+- addNode - Given an SLL and a value, add a node with that value to the SLL
+- intersection - Given a two SLLs, check to see if the lists intersect
+- isPalindrome - Given a SLL, determine if the values are palindrome. Return 1 or 0 if is palindrome or not, respectively
+- kthNode - Given a SLL, find Kth node from the end of the list
+- mergeTwo - Given a two, sorted SLLs, merge both lists into one
+- removeNode
+  <br>
+  ex.1) Given an SLL, replace head node with the node after head
+  <br>
+  ex.2) Given an SLL, replace tail with node before tail
+  <br>
+  ex.3) Given and SLL, remove the middle node with the node before it
+ - reverseSll - Given an SLL, reverse the SLL
+ - sort012 - Given an SLL with random amounts of values of 0, 1, 2, sort the SLL so that all values are sorted from smallest to largest
+ <br>
+### Stacks
+  - In process
+<br>
 ## WORK HISTORY
 9/11/17 - Singly Linked Lists
+<br>
 9/12/17 - Stacks
+<br>
 // PLEASE FEEL FREE TO PROVIDE FEEDBACK. I AM OPEN TO CONSTRUCT CRITICSM. :)
 </br>
 // If you have any questions, feel free to message me.
