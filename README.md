@@ -9,7 +9,7 @@ Each .js is used along-side with "nodemon" to observe changes while I work. Most
 ## WORKFLOW
 Each file will generally have: 1) Required constructors, 2) Instatiating of raw values into new instances of constructors, and 3) Comments each block of code.
 
-## Contents
+## CONTENT
 ### SSL
 - addNode - Given an SLL and a value, add a node with that value to the SLL
 - intersection - Given a two SLLs, check to see if the lists intersect
