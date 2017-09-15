@@ -25,7 +25,7 @@ Each file will generally have: 1) Required constructors, 2) Instatiating of raw 
   ex.3) Given and SLL, remove the middle node with the node before it
  - reverseSll - Given an SLL, reverse the SLL
  - sort012 - Given an SLL with random amounts of values of 0, 1, 2, sort the SLL so that all values are sorted from smallest to largest
- <br>
+
 ### Stacks
   - In process
 
