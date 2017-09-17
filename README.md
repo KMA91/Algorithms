@@ -27,7 +27,17 @@ Each file will generally have: 1) Required constructors, 2) Instatiating of raw 
  - sort012 - Given an SLL with random amounts of values of 0, 1, 2, sort the SLL so that all values are sorted from smallest to largest
 
 ### Stacks
-  - In process
+  - constructor
+  <br>
+  ex.1) Define a Stack that allows for a linked list of strings
+  ex.2) Define a Stack that allows for an array of strings
+  ex.3) Define a Stack that allows for key/value pairs
+  <br>
+  - findMinMaxAvg
+  <br>
+  ex.1) Given a Stack w/ SLL, return the minimum value
+  ex.2) Given a Stack w/ SLL, return the maximum value
+  ex.3) Given a Stack w/ SLL, return the average value
 
 ## WORK HISTORY
 9/11/17 - Singly Linked Lists
