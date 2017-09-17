@@ -27,13 +27,16 @@ Each file will generally have: 1) Required constructors, 2) Instatiating of raw 
  - sort012 - Given an SLL with random amounts of values of 0, 1, 2, sort the SLL so that all values are sorted from smallest to largest
 
 ### Stacks
-- removeNode
+- constructor
   <br>
-  ex.1) Given an SLL, replace head node with the node after head
+  ex.1) Define a Stack that allows for a linked list of strings
   <br>
-  ex.2) Given an SLL, replace tail with node before tail
+  ex.2) Define a Stack that allows for an array of strings
   <br>
-  ex.3) Given and SLL, remove the middle node with the node before it
+  ex.3) Define a Stack that allows for key/value pairs
+  - findMinMaxAvg
+  <br>
+
  - reverseSll - Given an SLL, reverse the SLL
 
 ## WORK HISTORY
