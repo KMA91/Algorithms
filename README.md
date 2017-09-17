@@ -42,9 +42,6 @@ Each file will generally have: 1) Required constructors, 2) Instatiating of raw 
   <br>
   ex.3) Given a Stack w/ SLL, return the average value
 
-
- - reverseSll - Given an SLL, reverse the SLL
-
 ## WORK HISTORY
 9/11/17 - Singly Linked Lists
 <br>
