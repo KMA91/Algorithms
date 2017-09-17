@@ -24,7 +24,7 @@ list.head.next = n2;
 list.head.next.next = n3;
 list.head.next.next.next = n4;
 
-// Ex.1 // Reverse list
+// Ex.1 // Given an SLL, reverse the SLL
 
 function reverse(sll){
   // var nodes // Used to push nodes into reusable list
