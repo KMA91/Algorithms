@@ -35,10 +35,13 @@ Each file will generally have: 1) Required constructors, 2) Instatiating of raw 
   <br>
   ex.3) Define a Stack that allows for key/value pairs
   <br>
+  
   - findMinMaxAvg
   <br>
   ex.1) Given a Stack w/ SLL, return the minimum value
+  <br>
   ex.2) Given a Stack w/ SLL, return the maximum value
+  <br>
   ex.3) Given a Stack w/ SLL, return the average value
 
 ## WORK HISTORY
