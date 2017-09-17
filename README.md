@@ -34,7 +34,6 @@ Each file will generally have: 1) Required constructors, 2) Instatiating of raw 
   ex.2) Define a Stack that allows for an array of strings
   <br>
   ex.3) Define a Stack that allows for key/value pairs
-  <br>
   
   - findMinMaxAvg
   <br>
