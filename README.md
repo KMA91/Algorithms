@@ -27,13 +27,14 @@ Each file will generally have: 1) Required constructors, 2) Instatiating of raw 
  - sort012 - Given an SLL with random amounts of values of 0, 1, 2, sort the SLL so that all values are sorted from smallest to largest
 
 ### Stacks
-- constructor
+- constructorStack
   <br>
   ex.1) Define a Stack that allows for a linked list of strings
   <br>
   ex.2) Define a Stack that allows for an array of strings
   <br>
   ex.3) Define a Stack that allows for key/value pairs
+- constructQ - Define a queue
 - findMinMaxAvg
   <br>
   ex.1) Given a Stack w/ SLL, return the minimum value
@@ -41,11 +42,18 @@ Each file will generally have: 1) Required constructors, 2) Instatiating of raw 
   ex.2) Given a Stack w/ SLL, return the maximum value
   <br>
   ex.3) Given a Stack w/ SLL, return the average value
+ - implementQ - implement a Queue with two stacks
+ - sort - Sort the elements inside a stack from low to high with only push and pop opperation.
+ 
+ ### Trees
+ - In Progress
 
 ## WORK HISTORY
 9/11/17 - Singly Linked Lists
 <br>
 9/12/17 - Stacks
+<br>
+9/27/17 - Trees
 <br>
 // PLEASE FEEL FREE TO PROVIDE FEEDBACK. I AM OPEN TO CONSTRUCT CRITICSM. :)
 </br>
