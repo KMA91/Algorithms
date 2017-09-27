@@ -45,20 +45,23 @@ myStack.first.next.next = n3;
 
 function sortStack(stack){
   var s2 = new Stack();
+
+// Push values from largest to smallest in stack
   while(!stack.isEmpty()){
     var temp = stack.pop();
-    console.log("temp = " + temp.val);
     while(!s2.isEmpty() && s2.peek().val > temp.val){
-      console.log("pushing " + s2.peek().val + " into stack");
       stack.push(s2.pop());
     }
-    console.log("pushing temp:" + temp.val + " into s2");
+
     s2.push(temp);
   }
+
+// Pop all values from stack2 so that the stack will be from smallest to largest
   while(!s2.isEmpty()){
     console.log("pushing " + s2.peek().val + " into stack");
     stack.push(s2.pop());
   }
+
   return stack;
 }
 
